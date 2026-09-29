@@ -2,4 +2,3 @@ fastf1
 seaborn
 streamlit
 pyarrow
-plotly
